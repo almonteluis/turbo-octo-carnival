@@ -1,0 +1,14 @@
+/Users/lalmonte/Documents/Software/Development/InventoryApp/bin/Debug/net9.0/InventoryApp
+/Users/lalmonte/Documents/Software/Development/InventoryApp/bin/Debug/net9.0/InventoryApp.deps.json
+/Users/lalmonte/Documents/Software/Development/InventoryApp/bin/Debug/net9.0/InventoryApp.runtimeconfig.json
+/Users/lalmonte/Documents/Software/Development/InventoryApp/bin/Debug/net9.0/InventoryApp.dll
+/Users/lalmonte/Documents/Software/Development/InventoryApp/bin/Debug/net9.0/InventoryApp.pdb
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.AssemblyInfoInputs.cache
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.AssemblyInfo.cs
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.csproj.CoreCompileInputs.cache
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.dll
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/refint/InventoryApp.dll
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.pdb
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/InventoryApp.genruntimeconfig.cache
+/Users/lalmonte/Documents/Software/Development/InventoryApp/obj/Debug/net9.0/ref/InventoryApp.dll
